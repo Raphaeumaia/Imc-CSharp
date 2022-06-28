@@ -1,0 +1,11 @@
+C:\Users\raphael.cfmaia\Documents\UC12\Imc\Imc\obj\Debug\Imc.csproj.AssemblyReference.cache
+C:\Users\raphael.cfmaia\Documents\UC12\Imc\Imc\obj\Debug\Imc.csproj.SuggestedBindingRedirects.cache
+C:\Users\raphael.cfmaia\Documents\UC12\Imc\Imc\obj\Debug\Imc.Form1.resources
+C:\Users\raphael.cfmaia\Documents\UC12\Imc\Imc\obj\Debug\Imc.Properties.Resources.resources
+C:\Users\raphael.cfmaia\Documents\UC12\Imc\Imc\obj\Debug\Imc.csproj.GenerateResource.cache
+C:\Users\raphael.cfmaia\Documents\UC12\Imc\Imc\obj\Debug\Imc.csproj.CoreCompileInputs.cache
+C:\Users\raphael.cfmaia\Documents\UC12\Imc\Imc\bin\Debug\Imc.exe.config
+C:\Users\raphael.cfmaia\Documents\UC12\Imc\Imc\bin\Debug\Imc.exe
+C:\Users\raphael.cfmaia\Documents\UC12\Imc\Imc\bin\Debug\Imc.pdb
+C:\Users\raphael.cfmaia\Documents\UC12\Imc\Imc\obj\Debug\Imc.exe
+C:\Users\raphael.cfmaia\Documents\UC12\Imc\Imc\obj\Debug\Imc.pdb
